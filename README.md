@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
 
-  <h2 align="center">Law Home Page</h2>
+  <h2 align="center">Digital Marketing Home Page</h2>
 
 </div>
 <br/>
@@ -43,7 +43,7 @@ This project is a part of the Full Stack Javascript Web Developer Bootcamp by Hi
 
 ### Learnings
 
-This was a pretty simple project but I think I need to learn more about placing images properly as the main image in my project is stretching and I wasn't able to come up with a solution to fix it.
+After completing four projects and gaining experience with Flexbox, I feel more confident in making the navbar. The layout of elements is becoming easier as I am getting a better grasp on it.
 
 <br/>
 
@@ -90,7 +90,7 @@ Saadat Badgujar - [@\_\_Saadat](https://twitter.com/__Saadat) - saadatbadgujar@g
 
 ## Deployment Link
 
-Project Link: [https://fsjs-html-css-project-3.netlify.app/](https://fsjs-html-css-project-3.netlify.app/)
+Project Link: [https://fsjs-html-css-project-4.netlify.app/](https://fsjs-html-css-project-4.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
